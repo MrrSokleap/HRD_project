@@ -1,0 +1,193 @@
+
+body{
+    margin: 0;
+    
+    
+}
+.top-width{
+    width: 100%;
+    background-color:black;
+    float: left;
+    padding: 20px;
+}
+.top-logo{
+    width: 1400px;
+    margin: auto;
+    overflow: hidden;
+  
+}
+.logo{
+    width: 200px;
+    float: left;
+}
+.logo img{
+    height: 78px;
+}
+.top-ads{
+    width: 1000px;
+    float: left;  
+}
+.top-ads img{
+    float: right;
+    height: 78px;
+}
+.top-menu-width{
+    width: 100%;
+    float: left;
+    background-color: red;
+}
+.top-menu{
+    width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    
+}
+.form-inline{
+    margin-top: 15px;
+    margin-right: 30px;
+    float: right;
+    
+    
+
+}
+.top-menu ul{
+    list-style-type: none;   
+    margin-left: 15px;
+    margin: auto;
+    
+}
+.top-menu ul li{
+    float: left;
+    
+}
+.top-menu ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 22pt;
+    font-family:  Georgia, Times, 'Khmer MEF1', serif;
+    color: aqua;
+    
+}
+.top-menu ul li a:hover{
+    color: #000;
+    background-color: orange;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    box-shadow: 0px 0px 2px 0px black; 
+    overflow: hidden;  
+    padding-top: 10px;
+    
+}
+.slide-box{
+    width: 800px;
+    height: 450px;
+    float: left;
+  
+   
+}
+.slide-box :hover .title{
+    color: rgb(42, 137, 226);
+}.contanier-foot :hover .title{
+    color: rgb(42, 137, 226);
+}
+.slide-1{
+    width: 450px;
+    height: 225px;
+    float: left;
+    position: relative;
+  
+}
+.slide-1 img{
+    width: 450px;
+    height: 225px;
+}
+.slide-2{
+    width: 350px;
+    height: 225px;
+    float: left;
+    position: relative;
+
+}
+.type{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 0px;
+    left: 0px;
+    background-color: yellowgreen;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15pt;
+    font-family:  Georgia, Times, 'Khmer MEF1', serif;
+    clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 100%, 95% 0)
+}
+.title{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgb(0,0,0,0.5);
+    color: white;
+    font-family:  Georgia, Times, 'Khmer MEF1', serif;
+    font-size: 15pt;
+}
+.slide-2 img{
+    width: 350px;
+    height: 225px;
+    margin: auto;
+}
+.letf-ads{
+    width: 300px;
+    height: 450px;
+    display: block;
+    float: left;
+    margin-left: 3px;
+}
+.box-img{
+    width: 340px;
+    height: 225px;
+    float: left;
+}
+.box-img img{
+    width: 340px;
+    height: 225px;
+    margin: auto;
+}
+   
+.contanier-foot{
+    width: 1140px;
+    margin: auto;
+    box-shadow: 0px 0px 2px 0px black; 
+    overflow: hidden;  
+    padding-top: 10px;
+    
+ 
+    
+}
+.right{
+    width: 350px;
+    float: left;
+    position: relative;
+}
+.right-1{position: relative;}.right-2{position: relative;}
+
+
+.right img{
+    width:350px;
+    height: 250px;
+    padding-top: 33px;
+}
+
+.row table tbody{
+    font-family:  Georgia, Times, 'Khmer MEF1', serif;
+    cursor: pointer;
+
+}
+.row table tbody :hover td{
+    color: blue;
+    
+}
